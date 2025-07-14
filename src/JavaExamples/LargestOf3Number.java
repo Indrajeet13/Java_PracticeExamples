@@ -19,7 +19,7 @@ public class LargestOf3Number {
 		
 		//Approch 1 - using logic
 		
-		if(a>b && a>b)
+		if(a>b && a>c)
 		{
 			System.out.println(a+" is largest number");
 		}

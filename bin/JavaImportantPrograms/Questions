@@ -1,0 +1,67 @@
+Most Important Categories:
+
+String Manipulation - Reverse, palindrome, anagrams, character counting
+Array Operations - Find min/max, reverse, missing numbers, duplicates, two-sum
+Sorting Algorithms - Bubble, selection, insertion, quick, merge sort
+Searching - Binary search, linear search
+Mathematical Programs - Prime numbers, fibonacci, factorial, Armstrong numbers
+Pattern Printing - Triangles, pyramids, diamonds
+Java 8 Streams - Filtering, mapping, grouping, collecting
+OOP Concepts - Inheritance, abstract classes, singleton pattern
+Exception Handling - Custom exceptions, try-with-resources
+Collections - List operations, map sorting, set conversions
+
+💡 Interview Tips:
+
+Time Complexity: Know the Big O notation for each algorithm
+Space Complexity: Understand memory usage
+Edge Cases: Always handle null inputs, empty arrays, etc.
+Optimization: Be ready to optimize your solutions
+
+🎯 Most Frequently Asked:
+
+//Reverse string/array
+//Find duplicates
+//Two sum problem
+//Check palindrome
+//Fibonacci sequence
+//Sorting algorithms
+//Prime number check
+
+// Check if string contains only digits
+
+// Find largest and smallest element in array
+// Reverse an array
+// Find second largest element
+// Find missing number in array (1 to n)
+// Remove duplicates from sorted array
+// Rotate array by k positions
+// Two Sum Problem
+
+// Bubble Sort
+// Selection Sort
+// Insertion Sort
+
+// Binary Search
+// Linear Search
+
+// Check if number is Prime
+// Generate Fibonacci sequence
+// Calculate factorial
+// Check if number is Armstrong number
+// Find GCD (Greatest Common Divisor)
+// Find LCM (Least Common Multiple)
+// Check if number is Perfect number
+// Reverse a number
+
+// Print right triangle pattern
+// Print pyramid pattern
+// Print diamond pattern
+// Lower half
+
+
+
+
+
+
+
